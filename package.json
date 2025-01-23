@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@nativescript/core": "^8.8.6",
     "expo": "^52.0.27",
     "expo-av": "~15.0.2",
     "expo-constants": "~17.0.4",
@@ -31,7 +32,8 @@
     "react-native-reanimated": "~3.16.1",
     "react-native-safe-area-context": "4.12.0",
     "react-native-screens": "~4.4.0",
-    "react-native-url-polyfill": "^2.0.0"
+    "react-native-url-polyfill": "^2.0.0",
+    "react-nativescript": "^5.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.24.3",

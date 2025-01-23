@@ -111,7 +111,7 @@ export default function App() {
               <Text className="text-white text-lg font-semibold">Sign In</Text>
             </TouchableOpacity>
 
-            <View className="mt-8">
+            {/* <View className="mt-8">
               <View className="flex-row items-center">
                 <View className="flex-1 h-[1px] bg-gray-200" />
                 <Text className="mx-4 text-gray-400">or continue with</Text>
@@ -126,7 +126,7 @@ export default function App() {
                   <Text className="text-2xl">📱</Text>
                 </TouchableOpacity>
               </View>
-            </View>
+            </View> */}
 
             <View className="flex-row justify-center space-x-1 mt-8 mb-8">
               <Text className="text-gray-600">Don't have an account?</Text>
